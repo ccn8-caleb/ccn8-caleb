@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccn8-caleb&layout=compact&theme=gotham" alt="Top langs">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/api/wakatime?username=ccn8-caleb&theme=gotham" alt="Wakatime card">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ccn8-caleb&theme=gotham" alt="Wakatime card">
 </p>
