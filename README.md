@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Github States
+### Github Statistics
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ccn8-caleb&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ccn8-caleb&count_private=true&show_icons=true&theme=gotham" alt="github states"> 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccn8-caleb&layout=compact&theme=apprentice" alt="Top langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccn8-caleb&layout=compact&theme=gotham" alt="Top langs">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/api/wakatime?username=ccn8-caleb&theme=gotham" alt="Wakatime card">
 </p>
