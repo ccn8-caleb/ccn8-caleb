@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ccn8-caleb&count_private=true&show_icons=true&theme=gotham" alt="github states"> 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccn8-caleb&layout=compact&theme=gotham" alt="Top langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccn8-caleb&layout=compact&theme=gotham&v=2" alt="Top langs">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ccn8_caleb&theme=gotham&v=2" alt="Wakatime card">
 </p>
