@@ -4,6 +4,10 @@ I am a DevOps Engineer working in Virginia, United States.
 
 I like to work on Terraform and Kubernetes, as well as building scripts and tools in Bash and Python.
 
+I love using Obsidian, you may see that my hours in Markdown are high. In addition to building resources in Obsidian, I also work on them for my codebases.
+
+I plan to include more public content on my GitHub for reference. I would like to contribute more to the FOSS landscape.
+
 <!--
 **ccn8-caleb/ccn8-caleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
