@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a DevOps Engineer working in Virginia, United States.
+
+I like to work on Terraform and Kubernetes, as well as building scripts and tools in Bash and Python.
+
 <!--
 **ccn8-caleb/ccn8-caleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
